@@ -1,1 +1,1 @@
-# partn
+# partner
