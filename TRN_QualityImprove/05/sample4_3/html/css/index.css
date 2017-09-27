@@ -1,0 +1,22 @@
+#button1{
+    width: 60%;
+    border: solid;
+    background: linear-gradient(#2792C3, #2CA9E1);
+    color: white;
+    font-size: 90px;
+    height: 467px;
+    margin: auto;
+    display: block;
+    margin-top: 300px;
+    border-radius: 30px;
+}
+.display_none{
+    display: none;
+}
+img{
+    position:  absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}

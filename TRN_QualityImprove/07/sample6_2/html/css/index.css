@@ -1,0 +1,116 @@
+.display_none{
+    display: none;
+}
+.div_screen{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.div_screen > h1{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 13px;
+    letter-spacing: 8px;
+}
+.button_num1{
+    width: 707px;
+    border: solid;
+    font-size: 90px;
+    height: 347px;
+    border-radius: 30px;
+    margin-left: 500px;
+}
+.button_num2_1{
+    width: 707px;
+    border: solid;
+    font-size: 90px;
+    height: 347px;
+    border-radius: 30px;
+    margin-left: 96px;
+}
+.button_num2_2{
+    width: 707px;
+    border: solid;
+    font-size: 90px;
+    height: 347px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.div_footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.div_footer > button{
+    width: 50%;
+    font-size: 70px;
+}
+.button_back{
+    background: white;
+    border: solid 2px #2792C3;
+    color: #2792C3;
+}
+.button_top{
+    background: #2792C3;
+    color: white;
+    border: solid 2px #2792C3;
+}
+#button_1{
+    background: linear-gradient(#2CA9E1, #7BC496);
+    color: white;
+}
+#button_2{
+    background: linear-gradient(#2CA9E1, #7BC496);
+    color: white;
+}
+#button_3{
+    background: linear-gradient(#2CA9E1, #7BC496);
+    color: white;
+}#button_4{
+    background: linear-gradient(#2CA9E1, #7BC496);
+    color: white;
+}
+#button_5{
+    background: linear-gradient(#2CA9E1, #7BC496);
+    color: white;
+}
+#screen_top > h1{
+    color: #2792C3;
+}
+#screen_1 > h1{
+    color: #2792C3;
+}
+#screen_2 > h1{
+    color: #2792C3;
+    margin-top: 250px;
+}
+#screen_3 > h1{
+    color: #2792C3;
+}
+#screen_4 > h1{
+    color: #2792C3;
+    margin-top: 250px;
+}
+#screen_5 > h1{
+    color: #2792C3;
+    margin-top: 250px;
+}
+.div_header{
+        height: 13%;
+    padding-top: 2%;
+    text-align: right;
+    padding-right: 2%;
+}
+.salue{
+    height: 100%;
+    background: #F08300;
+    border-radius: 10px;
+    border-style: none;
+    padding-left: 3%;
+    padding-right: 4%;
+}
+.salue > img{
+    height: 95%;
+}
