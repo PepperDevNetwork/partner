@@ -1,0 +1,19 @@
+#button1{
+    width: 1007px;
+    border: solid;
+    background: linear-gradient(#2792C3, #2CA9E1);
+    color: white;
+    font-size: 90px;
+    height: 467px;
+    margin-top: 300px;
+    border-radius: 30px;
+    margin-left: 350px;
+}
+#img1{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.display_none{
+    display: none;
+}
